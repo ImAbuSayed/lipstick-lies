@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/lipstick-lies/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Lipstick & Lies](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/lipstick-lies/) |
+| **Get License** | [License this song: Lipstick & Lies](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/lipstick-lies/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Main aunda tere kol sohniye
+> Your red lipstick and your sweet lies
+> Main tenu takda ravaan balliye
+> You are looking me dead in the eyes
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
